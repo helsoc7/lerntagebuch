@@ -1,53 +1,48 @@
 ---
-title: "Test Eintrag"
+title: "Ihr Titel"
 date: 2024-01-25
 ---
 
 
-## Tages
+## Tagesrückblick
 
 ### Lernziele für heute:
 
-- Was ist Github?
-- Was ist Gitlab?
-- Was sind die Unterschiede zwischen diesen Software-Versionierungs-Systemen?
+- [Hier die Lernziele für den Tag auflisten]
 
 ### Gelernte Themen/Fächer:
 
-- Softwareversionierung
-- Anbieter für Softwareversionierung
+- [Notiere hier, welche Themen oder Fächer du heute bearbeitet hast.]
 
 ### Aufgaben erledigt:
 
-- Präsentation vorbereitet
-- Github und Gitlab vorgestellt
+- [Liste alle Aufgaben auf, die du heute abgeschlossen hast.]
 
 ### Schwierigkeiten:
 
-- Folien für die Präsentationen erstellen
+- [Falls es Herausforderungen oder Schwierigkeiten gab, notiere diese und wie du versucht hast, sie zu bewältigen.]
 
 ### Erkenntnisse:
 
-- Wie erstelle ich gute Folien für eine Präsentation?
+- [Teile deine Erkenntnisse und Lernfortschritte mit.]
 
 ## Reflexion
 
 ### Was lief gut heute?
 
-- Gruppenarbeit
+- [Beschreibe, was heute besonders gut gelaufen ist.]
 
 ### Was kann verbessert werden?
 
-- Zeitmanagement
+- [Überlege, wie du deinen Lernprozess verbessern kannst.]
 
 ### Neue Ziele:
 
-- Ich möchte mich darin, verbessern, gute Folien herauszuarbeiten
+- [Setze dir Ziele für den nächsten Lerntag oder die kommende Woche.]
 
 ## Trainer/TA Feedback (falls vorhanden):
 
-- **Feedback vom Trainer/TA:**
-- Ich soll daran arbeiten, übersichtlichere Folien für meine Präsentation zu gestalten
+- **Feedback vom Trainer/TA:** [Falls ein Trainer/TA dir Feedback gegeben hat, notiere das hier.]
 
 ---
 
