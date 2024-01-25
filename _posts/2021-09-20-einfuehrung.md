@@ -4,7 +4,7 @@ date: 2024-01-25
 ---
 
 
-## Tagesrückblick
+## Tages
 
 ### Lernziele für heute:
 
