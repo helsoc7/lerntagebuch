@@ -1,6 +1,6 @@
 ---
 title: "Ihr Titel"
-date: 2024-01-25
+date: 2024-01-01
 ---
 
 
@@ -8,41 +8,41 @@ date: 2024-01-25
 
 ### Lernziele für heute:
 
-- [Hier die Lernziele für den Tag auflisten]
+- Hier die Lernziele für den Tag auflisten
 
 ### Gelernte Themen/Fächer:
 
-- [Notiere hier, welche Themen oder Fächer du heute bearbeitet hast.]
+- Notiere hier, welche Themen oder Fächer du heute bearbeitet hast.
 
 ### Aufgaben erledigt:
 
-- [Liste alle Aufgaben auf, die du heute abgeschlossen hast.]
+- Liste alle Aufgaben auf, die du heute abgeschlossen hast.
 
 ### Schwierigkeiten:
 
-- [Falls es Herausforderungen oder Schwierigkeiten gab, notiere diese und wie du versucht hast, sie zu bewältigen.]
+- Falls es Herausforderungen oder Schwierigkeiten gab, notiere diese und wie du versucht hast, sie zu bewältigen.
 
 ### Erkenntnisse:
 
-- [Teile deine Erkenntnisse und Lernfortschritte mit.]
+- Teile deine Erkenntnisse und Lernfortschritte mit.
 
 ## Reflexion
 
 ### Was lief gut heute?
 
-- [Beschreibe, was heute besonders gut gelaufen ist.]
+- Beschreibe, was heute besonders gut gelaufen ist.
 
 ### Was kann verbessert werden?
 
-- [Überlege, wie du deinen Lernprozess verbessern kannst.]
+- Überlege, wie du deinen Lernprozess verbessern kannst.
 
 ### Neue Ziele:
 
-- [Setze dir Ziele für den nächsten Lerntag oder die kommende Woche.]
+- Setze dir Ziele für den nächsten Lerntag oder die kommende Woche.
 
 ## Trainer/TA Feedback (falls vorhanden):
 
-- **Feedback vom Trainer/TA:** [Falls ein Trainer/TA dir Feedback gegeben hat, notiere das hier.]
+- **Feedback vom Trainer/TA:** Falls ein Trainer/TA dir Feedback gegeben hat, notiere das hier.
 
 ---
 
