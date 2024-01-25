@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel"
+title: "Einführungsa"
 date: 2021-09-20
 ---
 
